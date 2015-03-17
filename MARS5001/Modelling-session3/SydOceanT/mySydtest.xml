@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lecode:oceanInput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:lecode="http://subversion.assembla.com/svn/xsd/XSDlecode"
+  xsi:schemaLocation="http://subversion.assembla.com/svn/xsd/XSDlecode
+  http://subversion.assembla.com/svn/xsd/XSDlecode/OCEAN.xsd">
+
+  <TopoGrid>
+    <Grid>data/sydney.nodes</Grid>
+    <GridX>117</GridX>
+    <GridY>155</GridY>
+    <GridSpace>250</GridSpace>
+    <latGrid>-34.</latGrid>
+    <syncFolder>Poseidon</syncFolder>
+    <spmForcing>0</spmForcing>
+    <initDep>0</initDep>
+    <circForcing>1</circForcing>
+    <waveForcing>1</waveForcing>
+  </TopoGrid>
+  
+  <Time>
+    <startTime>0</startTime>
+    <endTime>0.2</endTime>
+    <syncTime>0.1</syncTime>
+    <outputTime>0.1</outputTime>
+  </Time>
+  
+  <CirculationParam>
+    <Courant>1</Courant>
+    <stormTime>48</stormTime>
+    <fricCoef>0.0005</fricCoef>
+    <filterStep>10</filterStep>
+  </CirculationParam>
+  
+  <OceanForecast>
+    <waveBase>150.0</waveBase>
+    <nbForecast>2</nbForecast>
+    <forecastClass>
+      <subgroupNb>1</subgroupNb>
+      <start>0</start>
+      <end>0.1</end>
+      <subgroupParam>0.3 20.0 90.0</subgroupParam>
+    </forecastClass>
+    <forecastClass>
+      <subgroupNb>1</subgroupNb>
+      <start>0.1</start>
+      <end>0.2</end>
+      <subgroupParam>0.3 20.0 240.0</subgroupParam>
+    </forecastClass>
+  </OceanForecast>
+  
+  <OutputDirectory>mySyd</OutputDirectory>
+  
+</lecode:oceanInput>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lecode:oceanInput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:lecode="http://subversion.assembla.com/svn/xsd/XSDlecode"
+  xsi:schemaLocation="http://subversion.assembla.com/svn/xsd/XSDlecode
+  http://subversion.assembla.com/svn/xsd/XSDlecode/OCEAN.xsd">
+
+  <!-- Declaration of the DEM file -->
+  <TopoGrid>
+     <!-- Name of the DEM file -->
+    <Grid>data/gab_topo.nodes</Grid>
+    <!-- Number of nodes along the X and Y direction -->
+    <GridX>250</GridX>
+    <GridY>250</GridY>
+    <!-- Grid spacing in metres --> 
+    <GridSpace>3000</GridSpace>
+    <!-- Mean latitude of the grid -->
+    <latGrid>-32.5</latGrid>
+    <!-- Synchronisation folder if coupled to sediment transport model -->
+    <syncFolder>Poseidon</syncFolder>
+    <!-- Flag for sediment transport model : 0=off - 1=on -->
+    <spmForcing>0</spmForcing>
+    <!-- Top sedimentary layer thickness (in metres)-->
+    <initDep>50</initDep>
+    <!-- Flag for ocean circulation model: 0=off - 1=on -->
+    <circForcing>1</circForcing>
+    <!-- Flag for wave  model: 0=off - 1=on -->
+    <waveForcing>1</waveForcing>
+  </TopoGrid>
+  
+   <!-- Declaration of simulation time -->
+  <Time>
+    <!-- Start time in years -->
+    <startTime>0</startTime>
+    <!-- End time in years -->
+    <endTime>0.2</endTime>
+    <!-- Synchronisation time in years when coupling to sediment transport model -->
+    <syncTime>0.1</syncTime>
+    <!-- Output time in years -->
+    <outputTime>0.1</outputTime>
+  </Time>
+  
+   <!-- Declaration of ocean circulation parameters -->
+  <CirculationParam>
+    <!--  Time step limitation (Courant numbers). Calculations usually become unstable for Courant numbers > 3-5.-->
+    <Courant>1</Courant>
+    <!-- Storm averaged duration in hours -->  
+    <stormTime>48</stormTime>
+    <!-- Coefficient of bottom friction. -->
+    <fricCoef>0.0005</fricCoef>
+     <!-- number of time-steps at which the calculated values of U, V, and surface elevation are filtered.--> 
+    <filterStep>10</filterStep>
+  </CirculationParam>
+  
+   <!-- Declaration of wave and wind forcing parameters -->
+  <OceanForecast>
+    <!-- Maximum water depth (metres) above which waves have no effect -->
+    <waveBase>50.0</waveBase>
+    <!-- Wind scenarios number: 
+    you will need to define as many forecastClass elements as the number of forecast defined here.-->
+    <nbForecast>2</nbForecast>
+    <forecastClass>
+       <!-- Each forecast can have several wind parameters subgroups. 
+        This element defines the number of subgroups. -->
+      <subgroupNb>1</subgroupNb>
+       <!-- Start time of the forecast in years -->
+      <start>0</start>
+       <!-- End time of the forecast in years -->
+      <end>0.1</end>
+       <!-- Subgroup wind parameters which consists in:
+        - first number: percentage of activity (between 0 and 1) of the considered subgroup over the considered forecast time only relevant if sediment transport is turned on
+        - second number: wind speed in m/s at 10 m above sea-level
+        - third number direction towards which the wind is blowing (in degrees) starting from the 0x axis
+       -->
+      <subgroupParam>0.3 20.0 140.0</subgroupParam>
+    </forecastClass>
+    <forecastClass>
+       <!-- Each forecast can have several wind parameters subgroups. 
+        This element defines the number of subgroups. -->
+      <subgroupNb>1</subgroupNb>
+       <!-- Start time of the forecast in years -->
+      <start>0.1</start>
+       <!-- End time of the forecast in years -->
+      <end>0.2</end>
+       <!-- Subgroup wind parameters which consists in:
+        - first number: percentage of activity (between 0 and 1) of the considered subgroup over the considered forecast time only relevant if sediment transport is turned on
+        - second number: wind speed in m/s at 10 m above sea-level
+        - third number direction towards which the wind is blowing (in degrees) starting from the 0x axis
+       -->
+      <subgroupParam>0.3 20.0 240.0</subgroupParam>
+    </forecastClass>
+  </OceanForecast>
+  
+  <!-- Output directory name-->
+  <OutputDirectory>mygab</OutputDirectory>
+  
+</lecode:oceanInput>
