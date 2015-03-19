@@ -37,7 +37,7 @@ As a quite recent IPython user, most of the materials from these notebooks are i
 So far, I've been using the *Amazon Web Services* cloud infrastructure and *Dropbox* to deploy and share my modules and notebooks through the Web with the students.
 
 
-# MARS5001 lectures through nbviewer
+# MARS5001 lectures material
 
 ### Session 1: Query data & models from the Web
 
@@ -62,5 +62,5 @@ So far, I've been using the *Amazon Web Services* cloud infrastructure and *Drop
 * Coupled ocean circulation wave model on real topography &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB3-OceanSim.ipynb'>nbviewer<a/>
 * Coupled ocean circulation wave model for Offshore Sydney &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB4-SydSim.ipynb'>nbviewer<a/>
 
-# GEOS3102 lectures through nbviewer
+# GEOS3102 lectures material
 
