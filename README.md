@@ -47,7 +47,7 @@ As a quite recent IPython user, most of the materials from these notebooks are i
 
 ### Session 2: Wave propagation on 1D beach profile
 
-* Overview &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/Lecture-overview.ipynb]>nbviewer<a/>
+* Overview &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/Lecture-overview.ipynb'>nbviewer<a/>
 * Shallow Water Equation 1D &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/NB1-SWE1D.ipynb'>nbviewer<a/>
 * Using XBeach to analyse wave propagation &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/NB2-BeachProfileDefault.ipynb'>nbviewer<a/>
 * Hands-on exercise with your own profile &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/NB3-myBeachProfile.ipynb'>nbviewer<a/>
