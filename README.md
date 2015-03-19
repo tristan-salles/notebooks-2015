@@ -32,7 +32,9 @@ Since the beginning of the first semester of 2015, I have been starting to creat
 * MARS5001: <a href='https://github.com/t-salles/notebooks/tree/master/MARS5001'>Coastal Processes & Systems<a/>
 * GEOS3102: Global Energy & Resources
 
-As a quite recent IPython user, most of the materials from these notebooks are inspired from the work of others... Some of these notebooks could be used with the <a href='https://github.com/damianavila/RISE'>RISE slideshow extension</a> for lecture presentation, where others are more for practice.
+As a quite recent IPython user, most of the materials from these notebooks are inspired from the work of others... Some of these notebooks could be used with the <a href='https://github.com/damianavila/RISE'>RISE slideshow extension</a> for lecture presentation, where others are more for practice. 
+
+So far, I've been using the *Amazon Web Services* cloud infrastructure and *Dropbox* to deploy and share my modules and notebooks through the Web with the students.
 
 
 # MARS5001 lectures through nbviewer
