@@ -1,2 +1,64 @@
-# notebooks
-IPython Notebooks Lectures
+Jupyter-based Teaching & Learning
+===
+
+<div align="center">
+    <img width=400 src="http://www.nature.com/polopoly_fs/7.21336.1415199590!/image/Toolbox.jpg_gen/derivatives/landscape_630/Toolbox.jpg" title="Illustration by the Project Twins"</img>
+</div>
+
+## Intro
+
+The IPython environment lends itself to **teaching and learning**: 
+
+* immediate feedback, 
+* flexible visualisation, 
+* easy access to docstrings and 
+* ability to explore modules.
+
+The release of the IPython Notebook in 2011 made it even more attractive as an **eLearning tool**, by providing browser-based access to an iPython environment with the ability to share notebooks with others, embed output products and annotate code.
+
+With the launch of the **project Jupyter** last July, it went a step further, enabling the evolution of the language-agnostic parts of Python (R, Julia, Ruby, etc.) into an open platform for **interactive education**.
+
+Within the School of Geosciences of the Univeristy of Sydney, we think that Jupyter/IPython could give both teachers and students new tools to communicate with and document good code practices as well as subject matter in fields such as 
+
+* Math, 
+* Physics, 
+* Social Sciences, 
+* Earth Sciences, 
+* Medical Sciences or 
+* Economy. 
+ 
+Since the beginning of the first semester of 2015, I have been starting to create interactive IPython teaching notebooks in some of our Units of Study:
+
+* MARS5001: <a href='https://github.com/t-salles/notebooks/tree/master/MARS5001'>Coastal Processes & Systems<a/>
+* GEOS3102: Global Energy & Resources
+
+As a quite recent IPython user, most of the materials from these notebooks are inspired from the work of others... Some of these notebooks could be used with the <a href='https://github.com/damianavila/RISE'>RISE slideshow extension</a> for lecture presentation, where others are more for practice.
+
+
+# MARS5001 lectures through nbviewer
+
+### Session 1: Query data & models from the Web
+
+* Overview &mdash;  <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session1/Lecture-overview.ipynb'>nbviewer<a/>
+* Ocean Radar Data Query &mdash;  <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session1/NB1-ACORN.ipynb'>nbviewer<a/>
+* Historical records and past models &mdash;  <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session1/NB2-BuoyWW3.ipynb'>nbviewer<a/>
+* Access data from Forecast Model &mdash;  <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session1/NB3-Forecast.ipynb'>nbviewer<a/>
+* Compute Ekman current from wind data &mdash;  <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session1/NB4-Ekman.ipynb'>nbviewer<a/>
+
+### Session 2: Wave propagation on 1D beach profile
+
+* Overview &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/Lecture-overview.ipynb]>nbviewer<a/>
+* Shallow Water Equation 1D &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/NB1-SWE1D.ipynb'>nbviewer<a/>
+* Using XBeach to analyse wave propagation &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/NB2-BeachProfileDefault.ipynb'>nbviewer<a/>
+* Hands-on exercise with your own profile &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session2/NB3-myBeachProfile.ipynb'>nbviewer<a/>
+
+### Session 3: Ocean circulation & wave propagation on real bathymetry
+
+* Overview &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/Lecture-overview.ipynb'>nbviewer<a/>
+* Shallow Water Equation 2D &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB1-SWE2D.ipynb'>nbviewer<a/>
+* Sydney Coastal Region Bathymetry &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB2-BathymetryGen.ipynb'>nbviewer<a/>
+* Coupled ocean circulation wave model on real topography &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB3-OceanSim.ipynb'>nbviewer<a/>
+* Coupled ocean circulation wave model for Offshore Sydney &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB4-SydSim.ipynb'>nbviewer<a/>
+
+# GEOS3102 lectures through nbviewer
+
