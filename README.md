@@ -37,6 +37,8 @@ As a quite recent IPython user, most of the materials from these notebooks are i
 So far, I've been using the *Amazon Web Services* cloud infrastructure and *Dropbox* to deploy and share my modules and notebooks through the Web with the students.
 
 
+For an introduction to IPython, I will recommend this <a href='https://dl.dropboxusercontent.com/u/31110214/Learning%20IPython%20for%20Interactive%20Computing%20and%20Data%20Visualization.pdf'>book</a> from Cyrille Rossant.
+
 # MARS5001 lectures material
 
 ### Session 1: Query data & models from the Web
