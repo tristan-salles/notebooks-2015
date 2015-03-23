@@ -64,7 +64,7 @@ For an introduction to IPython, I will recommend this <a href='https://dl.dropbo
 * Coupled ocean circulation wave model on real topography &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB3-OceanSim.ipynb'>nbviewer<a/>
 * Coupled ocean circulation wave model for Offshore Sydney &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/MARS5001/Modelling-session3/NB4-SydSim.ipynb'>nbviewer<a/>
 
-# GEOS3102 lectures material
+# GEOS3102 lectures & practise material
 
 ### Sediment Geomorphology
 
