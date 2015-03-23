@@ -66,3 +66,8 @@ For an introduction to IPython, I will recommend this <a href='https://dl.dropbo
 
 # GEOS3102 lectures material
 
+### Sediment Geomorphology
+
+* <font color='darkgreen'>Prac:</font> Global variation in submarine channel sinuosity  &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/SubChannelSinuosity.ipynb'>nbviewer<a/>
+* <font color='darkgreen'>Prac:</font> Exploring grain settling &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/GrainSettling.ipynb'>nbviewer<a/>
+* Diffusion equation in IPython &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/DiffusionEq.ipynb'>nbviewer<a/>
