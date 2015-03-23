@@ -68,6 +68,19 @@ For an introduction to IPython, I will recommend this <a href='https://dl.dropbo
 
 ### Sediment Geomorphology
 
-* <font color='green'>Prac:</font> Exploring grain settling &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/GrainSettling.ipynb'>nbviewer<a/>
-* <font color='green'>Prac:</font> Global variation in submarine channel sinuosity  &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/SubChannelSinuosity.ipynb'>nbviewer<a/>
+* **Prac:** Exploring grain settling &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/GrainSettling.ipynb'>nbviewer<a/>
+* **Prac:** Global variation in submarine channel sinuosity  &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/SubChannelSinuosity.ipynb'>nbviewer<a/>
 * Diffusion equation in IPython &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/DiffusionEq.ipynb'>nbviewer<a/>
+
+### Well Analysis
+
+* **Prac:** Digital Well Log Analysis &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/WellAnalysis/WellLogViewer.ipynb'>nbviewer<a/>
+* Quantitative interpretation: Synthetic data from well log &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/WellAnalysis/SyntheticWell.ipynb'>nbviewer<a/>
+
+### Seismic
+
+* **Prac:** Read Seismic Line (SEG-Y) &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SEGYread.ipynb'>nbviewer<a/>
+* **Prac:** Slice Seismic Volume &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SliceSeismic.ipynb'>nbviewer<a/>
+* **Prac:** Synthetic Seismogram 1 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SyntheticSeismogram.ipynb'>nbviewer<a/>
+* **Prac:** Synthetic Seismogram 2 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SeismicNMOapp.ipynb'>nbviewer<a/>
+
