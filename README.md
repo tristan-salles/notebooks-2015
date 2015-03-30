@@ -66,6 +66,9 @@ For an introduction to IPython, I will recommend this <a href='https://dl.dropbo
 
 # GEOS3102 lectures & practical material
 
+* *Lecture 1* &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/QuantitativeExploration.ipynb'>nbviewer<a/>
+* *Lecture 2* &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/QuantitativeExploration2.ipynb'>nbviewer<a/>
+
 ### Sediment Geomorphology
 
 * **Prac:** Exploring grain settling &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/SedimentGeomorphology/GrainSettling.ipynb'>nbviewer<a/>
