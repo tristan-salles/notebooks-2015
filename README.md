@@ -83,6 +83,6 @@ For an introduction to IPython, I will recommend this <a href='https://dl.dropbo
 
 * **Prac:** Read Seismic Line (SEG-Y) &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SEGYread.ipynb'>nbviewer<a/>
 * **Prac:** Slice Seismic Volume &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SliceSeismic.ipynb'>nbviewer<a/>
-* **Prac:** Synthetic Seismogram 1 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SyntheticSeismogram.ipynb'>nbviewer<a/>
-* **Prac:** Synthetic Seismogram 2 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SeismicNMOapp.ipynb'>nbviewer<a/>
+* Synthetic Seismogram 1 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SyntheticSeismogram.ipynb'>nbviewer<a/>
+* Synthetic Seismogram 2 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SeismicNMOapp.ipynb'>nbviewer<a/>
 
