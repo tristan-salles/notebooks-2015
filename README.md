@@ -30,7 +30,7 @@ Within the School of Geosciences of the Univeristy of Sydney, we think that Jupy
 Since the beginning of the first semester of 2015, I have been starting to create interactive IPython teaching notebooks in some of our Units of Study:
 
 * MARS5001: <a href='https://github.com/t-salles/notebooks/tree/master/MARS5001'>Coastal Processes & Systems<a/>
-* GEOS3102: Global Energy & Resources
+* GEOS3102: <a href='https://github.com/t-salles/notebooks/tree/master/GEOS3102'>Global Energy & Resources<a/>
 
 As a quite recent IPython user, most of the materials from these notebooks are inspired from the work of others... Some of these notebooks could be used with the <a href='https://github.com/damianavila/RISE'>RISE slideshow extension</a> for lecture presentation, where others are more for practice. 
 
