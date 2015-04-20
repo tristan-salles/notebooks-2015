@@ -92,7 +92,6 @@ For an introduction to IPython, I will recommend this <a href='https://dl.dropbo
 
 # Miscellaneous notebooks
 
-* DEM export to CSV &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/TestProfile/DEMsrtm.ipynb'>nbviewer<a/>
-* DEM export to CSV &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/TestProfile/Peclet_number.ipynb'>nbviewer<a/>
+* Landscape profile analysis &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/TestProfile/Peclet_number.ipynb'>nbviewer<a/>
 * DEM export to CSV &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/TestProfile/IOOS_inundation.ipynb'>nbviewer<a/>
 * DEM export to CSV &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/TestProfile/RiverProfile.ipynb'>nbviewer1<a/> and <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/TestProfile/RiverProfile2.ipynb'>nbviewer2<a/>
