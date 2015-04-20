@@ -86,3 +86,6 @@ For an introduction to IPython, I will recommend this <a href='https://dl.dropbo
 * Synthetic Seismogram 1 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SyntheticSeismogram.ipynb'>nbviewer<a/>
 * Synthetic Seismogram 2 &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/GEOS3102/Seismic/SeismicNMOapp.ipynb'>nbviewer<a/>
 
+# Topography map, DEM manipulation
+
+* Export SRTM dataset and create shaded relief map &mdash; <a href='http://nbviewer.ipython.org/github/t-salles/notebooks/blob/master/TopoMap/DEMsrtm.ipynb'>nbviewer<a/>
